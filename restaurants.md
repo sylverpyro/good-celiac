@@ -57,7 +57,7 @@ To Qualify for the list
 - [Brasa](https://www.brasa.us/) :: [Menu](https://brasarotisserie.toast.site/order) :: Restaurant :: VgGF, VGF, PGF, OGF
   - Menu is GF other than bread and roles.  Fish is fried in corn meal
 - [Curry In a Hurry / Formally Gandhi Mahal](https://www.curryinahurrymn.com/) :: [Menu](https://www.curryinahurrymn.com/menu) :: Restaurant :: VgGF, VGF, OGF
-- [Kyatchi](https://kyatchi.com/#) :: [Menu](https://kyatchi.com/minneapolis-kingfield-kyatchi-food-menu) :: Restaurant :: VGF, PGF, OGF
+- [Kyatchi](https://kyatchi.com/#) :: [Menu](https://kyatchi.com/minneapolis-kingfield-kyatchi-food-menu) :: [Location](https://osm.org/go/T~fcygnKO?node=4102990301) :: Restaurant :: VGF, PGF, OGF
 - [Moto-i](https://moto-i.com/) :: [Menu](https://order.toasttab.com/online/moto-i) :: Restaurant :: VGF, PGF, OGF
 - [Namaste Cafe](https://www.namastecafemn.com/) :: [Menu](https://www.namastecafemn.com/menu) :: [Location](https://osm.org/go/T~fdKrj9F?way=88444150) Restaurant :: VgGF, VGF, OGF
 - [Parkwary Pizza](https://www.parkwaypizzamn.com/) :: [Menu](https://www.parkwaypizzamn.com/menu) :: Restaurant :: GFP, VgGF, VGF, OGF
